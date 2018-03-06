@@ -93,7 +93,7 @@ with Parallel(-1) as MP:
 
 ## Citations and Acknowledgments
 
-He, J., & Chen, C. (2018). [Predictive Effects of Novelty Measured by Temporal Embeddings on the Growth of Scientific Literature.](https://www.frontiersin.org/articles/10.3389/frma.2018.00009/full) Frontiers in Research Metrics and Analytics, 3, 9.
++ He, J., & Chen, C. (2018). [_Predictive Effects of Novelty Measured by Temporal Embeddings on the Growth of Scientific Literature._](https://www.frontiersin.org/articles/10.3389/frma.2018.00009/full) Frontiers in Research Metrics and Analytics, 3, 9.
 
 ## Contributors
 
